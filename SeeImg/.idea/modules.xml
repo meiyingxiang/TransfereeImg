@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SeeImg.iml" filepath="$PROJECT_DIR$/SeeImg.iml" group="SeeImg" />
+      <module fileurl="file://$PROJECT_DIR$/Transferee/Transferee.iml" filepath="$PROJECT_DIR$/Transferee/Transferee.iml" group="SeeImg/Transferee" />
+      <module fileurl="file://$PROJECT_DIR$/UniversalImageLoader/UniversalImageLoader.iml" filepath="$PROJECT_DIR$/UniversalImageLoader/UniversalImageLoader.iml" group="SeeImg/UniversalImageLoader" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="SeeImg/app" />
+    </modules>
+  </component>
+</project>
